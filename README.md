@@ -48,7 +48,7 @@ useState to display upon selection the submit button
 ## Author
 
 - Website - [Shvz](https://www.shvz.tech)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nexty5870)
+- Frontend Mentor - [My Profile](https://www.frontendmentor.io/profile/nexty5870)
 - Twitter - [@ShvzFR](https://www.twitter.com/ShvzFR)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
